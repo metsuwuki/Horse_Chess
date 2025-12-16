@@ -1,0 +1,17 @@
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.Form1.resources
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.csproj.GenerateResource.cache
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.AssemblyInfoInputs.cache
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.AssemblyInfo.cs
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.csproj.CoreCompileInputs.cache
+D:\Chess\Chess\bin\Debug\net8.0-windows\Chess.exe
+D:\Chess\Chess\bin\Debug\net8.0-windows\Chess.deps.json
+D:\Chess\Chess\bin\Debug\net8.0-windows\Chess.runtimeconfig.json
+D:\Chess\Chess\bin\Debug\net8.0-windows\Chess.dll
+D:\Chess\Chess\bin\Debug\net8.0-windows\Chess.pdb
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.dll
+D:\Chess\Chess\obj\Debug\net8.0-windows\refint\Chess.dll
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.pdb
+D:\Chess\Chess\obj\Debug\net8.0-windows\Chess.genruntimeconfig.cache
+D:\Chess\Chess\obj\Debug\net8.0-windows\ref\Chess.dll
+D:\Chess\Chess\obj\Debug\net8.0-windows\KnightChessGUI.GameForm.resources
